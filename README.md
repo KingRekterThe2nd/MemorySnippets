@@ -1,7 +1,3 @@
-Certainly! Here's a more tailored README file for a repository specifically focused on coding trading algorithms:
-
----
-
 # Trading Algorithm Snippets
 
 Welcome to the Trading Algorithm Snippets repository! This repository is dedicated to housing concise code snippets and algorithms for trading purposes.
@@ -46,7 +42,3 @@ If you wish to contribute your trading algorithms or improvements, please refer 
 ## License
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the LICENSE file for more information.
-
----
-
-This README file provides a tailored overview of the repository, detailing its focus on trading algorithms, categorization, contribution guidelines, and usage instructions specific to coding trading strategies. Adjust and expand as needed for your particular repository's scope and purpose.
