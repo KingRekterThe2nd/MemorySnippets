@@ -66,7 +66,7 @@ data_to_save = {
     'rsi_14': rsi_14
 }
 
-with open('crypto_price_data.json', 'w') as json_file:
+with open(f'crypto_price_data_{seed_value}.json', 'w') as json_file:
     json.dump(data_to_save, json_file)
 
 # Plotting the price action for a crypto asset along with indicators
